@@ -1,6 +1,6 @@
 # Imitation Learning Agent (Behavior Cloning)
 
-## 📌 Overview
+##  Overview
 
 This project demonstrates **Imitation Learning using Behavior Cloning**, where an agent learns to navigate toward a target by mimicking human demonstrations.
 
@@ -95,7 +95,7 @@ python run_agent.py
 
 ---
 
-## 📊 Results
+##  Results
 
 * The trained agent successfully learns to:
 
@@ -105,7 +105,7 @@ python run_agent.py
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 * Behavior cloning is a form of supervised learning applied to control tasks
 * State representation is critical for generalization
